@@ -9,7 +9,7 @@
     </div>
 
     <!-- Secondary Section -->
-    <div class="bg-secondary text-secondary-content p-5">
+    <div class="bg-secondary text-secondary-content p-5 rounded-box">
         <h2>Secondary Section</h2>
         <p>This is a text in the secondary section with secondary content color.</p>
     </div>
